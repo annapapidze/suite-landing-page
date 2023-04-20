@@ -347,6 +347,7 @@ footer {
 
     .first_section {
         flex-direction: row;
+        justify-content: center;
         gap: 96px;
         padding: 0 165px 199px 166px;
         margin: 0;
@@ -358,7 +359,7 @@ footer {
         text-align: left;
         justify-content: flex-end;
         position: relative;
-        width: 100%;
+        width: 831px;
     }
 
     .line1 {
